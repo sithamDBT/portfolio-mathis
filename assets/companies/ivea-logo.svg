@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">IVEA</title><desc id="desc">Identité visuelle IVEA</desc>
+  <rect width="1200" height="700" rx="64" fill="#111214"/>
+  <g transform="translate(600 355)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text y="70" font-size="230" font-weight="700" letter-spacing="-18" fill="#ffffff">ivea</text>
+    <g transform="translate(228 -172) skewX(-21)">
+      <rect x="-118" y="0" width="44" height="88" rx="18" fill="#ff9b35"/>
+      <rect x="-58" y="-18" width="44" height="106" rx="18" fill="#ff4f86"/>
+      <rect x="2" y="-35" width="44" height="123" rx="18" fill="#756cff"/>
+      <rect x="62" y="-52" width="44" height="140" rx="18" fill="#30c3ea"/>
+    </g>
+  </g>
+</svg>
